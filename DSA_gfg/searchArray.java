@@ -1,4 +1,4 @@
-package DSA;
+package DSA_gfg;
 
 public class searchArray {
     public static void main(String[] args) {

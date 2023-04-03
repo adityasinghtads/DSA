@@ -34,6 +34,8 @@ public class reverseArray {
         }
         System.out.println(arrayLength);
         System.out.println(arrayNumber);
+        scanLength.close();
+        scanArray.close();
     }
 
     public static void main(String[] args) {

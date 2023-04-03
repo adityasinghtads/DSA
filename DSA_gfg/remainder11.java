@@ -1,4 +1,4 @@
-package DSA;
+package DSA_gfg;
 
 import java.util.Scanner;
 

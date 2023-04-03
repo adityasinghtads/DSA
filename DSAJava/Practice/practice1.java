@@ -21,6 +21,7 @@ public class practice1 {
         reverseFunc(arr, 0, arr.length -1, index) ;
         System.out.println("the reverse array is:");
         printArray(arr);
+        scan.close();
     }
 
     // Main function Ending.... 
