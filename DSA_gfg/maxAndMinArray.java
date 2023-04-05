@@ -2,10 +2,11 @@ package DSA_gfg;
 
 public class maxAndMinArray {
     public static void main(String[] args) {
-        long min, max;
+     //   long min, max;
         int arr[] = {1,2,3,4,5,6};
         int len = arr.length;
         maxAndMin(arr, len);
+
 
     }
 
