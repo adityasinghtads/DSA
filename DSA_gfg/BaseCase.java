@@ -6,8 +6,8 @@ public class BaseCase {
         return arr;
     }
 
-    public static int getArraylen(){
-        int[] arr = { 1,2,3,4,5};
+    public static int getArraylen() {
+        int[] arr = { 1, 2, 3, 4, 5 };
         int n = arr.length;
         return n;
     }
