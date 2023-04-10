@@ -19,5 +19,23 @@ public class arrayList {
         wipro = al.get(0);
         System.out.println(wipro);
 
+        al.remove(0);
+        wipro = al.get(0);
+        System.out.println(wipro);
+
+       // al.clear();
+        System.out.println(al);
+
+        // Looping through an arraylist. 
+        for (int i = 0; i < al.size(); i++) {
+            System.out.println(al.get(i));
+        }
+
+        // Using For each loop 
+
+    for (Integer integer : al) {
+        System.out.println(integer);
+    }
+
     }
 }
