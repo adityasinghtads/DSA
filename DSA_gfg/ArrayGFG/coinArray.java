@@ -1,6 +1,6 @@
 // https://practice.geeksforgeeks.org/problems/coin-change2448/1?page=1&category[]=Arrays&curated[]=8&sortBy=submissions
 
-package DSA_gfg;
+package ArrayGFG;
 
 public class coinArray {
     public static void main(String[] args) {

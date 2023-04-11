@@ -1,6 +1,6 @@
 //https://practice.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1?page=1&difficulty[]=-1&difficulty[]=0&difficulty[]=1&status[]=unsolved&category[]=Arrays&curated[]=7&sortBy=submissions
 
-package DSA_gfg;
+package ArrayGFG;
 
 import java.util.Arrays;
 

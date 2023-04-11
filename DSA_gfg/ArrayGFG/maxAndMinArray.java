@@ -1,4 +1,4 @@
-package DSA_gfg;
+package ArrayGFG;
 
 public class maxAndMinArray {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package DSA_gfg;
+package ArrayGFG;
 
 public class missingNumber {
     public static void main(String[] args) {

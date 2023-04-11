@@ -1,4 +1,4 @@
-package DSA_gfg;
+package ArrayGFG;
 
 public class BaseCase {
     public static int[] getArray() {

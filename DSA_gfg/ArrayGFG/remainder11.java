@@ -1,4 +1,4 @@
-package DSA_gfg;
+package ArrayGFG;
 
 import java.util.Scanner;
 

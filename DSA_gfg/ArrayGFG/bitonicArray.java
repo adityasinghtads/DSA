@@ -1,6 +1,6 @@
 // https://practice.geeksforgeeks.org/problems/maximum-value-in-a-bitonic-array3001/1?page=1&category[]=Arrays&curated[]=8&sortBy=submissions
 
-package DSA_gfg;
+package ArrayGFG;
 
 public class bitonicArray {
     public static void main(String[] args) {
