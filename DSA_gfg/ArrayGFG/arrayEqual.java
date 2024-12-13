@@ -7,7 +7,7 @@ import java.util.Arrays;
 public class arrayEqual {
     public static void main(String[] args) {
         int arr[] = BaseCase.getArray();
-        int arr1[] = { 1, 2, 3, 4 };
+        // int arr1[] = { 1, 2, 3, 4 };
 
         // int len = BaseCase.getArraylen();
         // int len1 = BaseCase.getArraylen();
